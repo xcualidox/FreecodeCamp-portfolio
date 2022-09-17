@@ -67,6 +67,7 @@ a{
     width: 100%;
     z-index: 1;
     overflow: hidden;
+   scroll-margin-top: 6rem;
 }
 #contact{
     background: var(--contact);
